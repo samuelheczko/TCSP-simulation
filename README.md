@@ -9,6 +9,6 @@
  
 main functionality:
 
-1. generate mono exponential decays using the Monte Carlo method and 
+1. generate mono exponential decays using the Monte Carlo method 
 
 2.various plotting methods including phasor plots
