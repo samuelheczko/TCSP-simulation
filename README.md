@@ -1,5 +1,6 @@
 # TCSP-simulation
- Monte Carlo simulation for faithful representation of Time Correlated Single Photon counting experiments  
+ Monte Carlo simulation for faithful representation of Time Correlated Single Photon counting experiments made for KURF internship in the Physics department of King's College London.
+ 
  
  dependencies: pandas scipy seaborn matplotlib + numpy  
  
